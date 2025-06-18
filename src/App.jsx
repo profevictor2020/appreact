@@ -6,6 +6,8 @@ function App(){
     <>
       <img src={foto} alt="mi foto" width="200"></img>
     <Saludo usuario={usuario1} />
+
+    <h3>Estoy modificando el proyecto con mi nueva funcionalidad</h3>
     
     </>
   );
